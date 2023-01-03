@@ -1,0 +1,11 @@
+*{
+
+}
+
+.red-bg{
+    color: #fff;
+    background-color: #ed1d24;
+    font-family: sans-serif;
+    width: 30%;
+    padding: 20px 30px 20px;
+}
